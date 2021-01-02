@@ -12,5 +12,13 @@ git commit -m "Create index.html"
 git push origin master
 
 
+参考URL
+gitのインストールから初期的な使用方法まで
+https://prog-8.com/docs/git-env-win
+git hubの初歩的なところから基本的な使用方法まで
+https://techacademy.jp/magazine/6235
+
+
+
 プルはどうするの？
 
