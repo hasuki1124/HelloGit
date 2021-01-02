@@ -19,6 +19,8 @@ git hubの初歩的なところから基本的な使用方法まで
 https://techacademy.jp/magazine/6235
 
 
+変更メモ
+
 
 プルはどうするの？
 
