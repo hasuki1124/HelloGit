@@ -1,0 +1,16 @@
+gitでの初期設定
+コミットした際に誰がコミットしたのかわかるようにする
+git config --global user.name "ユーザー名"
+git config --global user.email "メールアドレス"
+
+
+gitのコマンド
+git init
+git remote add origin <URL>
+git add index.html
+git commit -m "Create index.html"
+git push origin master
+
+
+プルはどうするの？
+
